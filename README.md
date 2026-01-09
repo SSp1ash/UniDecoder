@@ -64,7 +64,7 @@ Utility functions for:
 Navigate to the demo directory and run the test:
 
 ```bash
-cd demo/CN_test  # or EN_test for English
+cd language_decoding/CN_decoding  # or EN_test for English
 python get_Uniemb.py
 python gen_text_main.py
 ```
